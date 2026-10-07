@@ -68,6 +68,7 @@ AOV is calculated as:
 AOV = Total Revenue / Total Orders
 
 ## Dashboard
+![Amazon Sales Dashboard](screenshots/dashboard_sales_amazon.png)
 
 ## Key Insights
 ### 1. Revenue Performance
