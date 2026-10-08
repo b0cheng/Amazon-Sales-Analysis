@@ -85,20 +85,18 @@ and geographic sales distribution.
 
 ## Key Insights
 ### 1. Revenue Performance
-Revenue shows an upward/downward trend across the analyzed period,
-with the highest performance occurring in [period].
+Revenue shows fluctuations across the analyzed period, with the highest monthly performance occurring in 2022, reaching approximately 350K.
 
 ### 2. Category Performance
-[Category] contributes the largest share of total revenue,
+Electronics contributes the largest share of total revenue at approximately 8.0M, 
 indicating its importance to overall sales performance.
 
 ### 3. Order Value
 Changes in revenue are influenced not only by order volume but also
-by changes in Average Order Value.
+by changes in Average Order Value(AOV).
 
 ### 4. Geographic Performance
-[Country] contributes the largest revenue share, while
-[Country] demonstrates a relatively higher AOV.
+The United States dominates order volume with approximately 14.31K orders, significantly exceeding India (2.97K) and other markets, highlighting the United States as Amazon's primary market in this dataset.
 
 ## Business Recommendations
 Based on the analysis, the following recommendations are proposed:
