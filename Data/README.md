@@ -7,3 +7,6 @@ the original dataset is not included in this repository.
 
 Source:
 [Amazon Sales Dataset on Kaggle](https://www.kaggle.com/datasets/rohiteng/amazon-sales-dataset?)
+
+## Data Cleaned Amazon Sales
+This folder contains the cleaned dataset used in the Amazon Sales Analysis project
