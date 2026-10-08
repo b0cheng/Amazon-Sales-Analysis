@@ -115,5 +115,5 @@ Based on the analysis, the following recommendations are proposed:
 
 | File | Description |
 |------|-------------|
-| [Power BI Dashboard](dashboard/Amazon_Sales_Dashboard) | Interactive Power BI dashboard |
-| [Cleaned Dataset](data/Amazon_Sales_Cleaned) | Cleaned transaction dataset |
+| [Power BI Dashboard](dashboard/Amazon_Sales_Dashboard.pbix) | Interactive Power BI dashboard |
+| [Cleaned Dataset](data/Amazon_Sales_Cleaned.csv) | Cleaned transaction dataset |
