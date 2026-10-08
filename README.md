@@ -68,7 +68,14 @@ AOV is calculated as:
 AOV = Total Revenue / Total Orders
 
 ## Dashboard
-![Amazon Sales Dashboard](screenshots/dashboard_sales_amazon.png)
+The following Power BI dashboard provides an interactive overview
+of Amazon sales performance, including revenue, orders, customers,
+AOV, sales trends, category performance, product performance,
+and geographic sales distribution.
+
+<p align="center">
+  <img src="screenshots/dashboard_sales_amazon.png" width="1000">
+</p>
 
 ## Key Insights
 ### 1. Revenue Performance
