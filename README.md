@@ -20,13 +20,19 @@ This analysis aims to answer the following questions:
 ## Dataset
 The dataset used in this project was obtained from Kaggle.
 
+Due to dataset licensing and redistribution considerations,
+the original dataset is not included in this repository.
+
+Source:
+[Amazon Sales Dataset on Kaggle](https://www.kaggle.com/datasets/rohiteng/amazon-sales-dataset)
+
 ### Dataset Information
 | Item | Description |
 |------|-------------|
 | Source | Kaggle |
 | Type | E-commerce transaction data |
-| Records | XX,XXX |
-| Period | XXXX–XXXX |
+| Records | 37,753 |
+| Period | 2020-2024 |
 | Unit of Analysis | Order / Order Item |
 
 ## Data Cleaning
@@ -106,3 +112,8 @@ Based on the analysis, the following recommendations are proposed:
 - Power BI — Data Visualization and Dashboard
 
 ## Project Files
+
+| File | Description |
+|------|-------------|
+| [Power BI Dashboard](dashboard/Amazon_Sales_Dashboard.pbix) | Interactive Power BI dashboard |
+| [Cleaned Dataset](data/Amazon_Sales_Cleaned.xlsx) | Cleaned transaction dataset |
